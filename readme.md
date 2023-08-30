@@ -3,7 +3,7 @@
 Nome Completo:
 CPF ou CNPJ:
 Localidade:
-Pessoa Fisica/Juridica:
+Pessoa Fisica/Juridica,
 
 2 - Tipos de Vinhos
 Vinho tinto - uvas tintas
