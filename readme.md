@@ -36,3 +36,7 @@ Valor - XXX,XXX
 Cartão - Debito/Credito
 Pix
 Boleto
+
+
+Prototipo da Tela Principal
+![Prototipo da Tela Principal](/Imagens/Tela-principal.png)
