@@ -44,3 +44,7 @@ Prototipo da Tela Principal
 
 Prototipo da de pagamento
 ![Prototipo da Tela Principal](https://github.com/sabs08/lojas-de-vinho/blob/master/FORMAS%20DE%20PAGAMENTO.png)
+
+
+Prototipo da tela de entrega
+1[Prototipo da tela de entrega](https://github.com/sabs08/lojas-de-vinho/blob/master/ENTREGA.png)
