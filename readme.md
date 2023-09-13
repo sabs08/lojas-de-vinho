@@ -40,3 +40,7 @@ Boleto
 
 Prototipo da Tela Principal
 ![Prototipo da Tela Principal](/Imagens/Tela-principal.png)
+
+
+Prototipo da de pagamento
+![Prototipo da Tela Principal](https://github.com/sabs08/lojas-de-vinho/blob/master/FORMAS%20DE%20PAGAMENTO.png)
