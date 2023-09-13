@@ -48,3 +48,7 @@ Prototipo da de pagamento
 
 Prototipo da tela de entrega
 ![Prototipo da tela de entrega](https://github.com/sabs08/lojas-de-vinho/blob/master/ENTREGA.png)
+
+
+Prototipo tela carrinho
+![Prototipo da tela de carrinho](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/CARRINHO.png)
