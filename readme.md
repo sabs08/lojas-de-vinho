@@ -52,3 +52,7 @@ Prototipo da tela de entrega
 
 Prototipo tela carrinho
 ![Prototipo da tela de carrinho](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/CARRINHO.png)
+
+
+Prototipo tela cadastro
+![Prototipo da tela de cadastro](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/TELA%20CADASTRO.png)
