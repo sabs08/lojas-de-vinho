@@ -47,4 +47,4 @@ Prototipo da de pagamento
 
 
 Prototipo da tela de entrega
-1[Prototipo da tela de entrega](https://github.com/sabs08/lojas-de-vinho/blob/master/ENTREGA.png)
+![Prototipo da tela de entrega](https://github.com/sabs08/lojas-de-vinho/blob/master/ENTREGA.png)
