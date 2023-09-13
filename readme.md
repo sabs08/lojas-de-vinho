@@ -59,3 +59,6 @@ Prototipo tela cadastro
 
 Prototipo tela de Login
 ![Prototipo da tela de Login](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/Login%20(3).png)
+
+Prototipo tela de cadastro pessoa juridica
+![Prototipo da tela de cadastro Pessoa Juridica](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/TELA%20CADASTRO%20PESSOA%20JURIDICA.png)
