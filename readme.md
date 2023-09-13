@@ -65,4 +65,4 @@ Prototipo tela de cadastro pessoa juridica
 
 
 Prototipo Diagrama 
-![Prototipo do diagrama](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/Diagrama.png)
+![Prototipo do diagrama](https://github.com/sabs08/lojas-de-vinho/blob/master/Imagens/Diagrama.PNG)
